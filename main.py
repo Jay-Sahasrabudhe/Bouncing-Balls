@@ -22,7 +22,7 @@ GRAVITY = 900.0
 WALL_RESTITUTION = 1
 RESTITUTION = 0.9
 
-FPS = 60
+FPS = 165
 
 positions = []
 velocities = []
